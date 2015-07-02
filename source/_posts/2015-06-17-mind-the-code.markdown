@@ -28,4 +28,6 @@ We then had a second yoga workshop, for those that did not do it the first time,
 
 After the lightning talks we had the second part to the coding workshop, which was a continuation of the first workshop. We stressed that the projects did not need to be finished as the workshop was more about what it means to develop software, and to have fun building it too.
 
-We want to say a huge thanks to all of our sponsors [MailJet](http://mailjet.com), [Shutl](http://shutl.com/uk), [Twilio](https://www.twilio.com) and [Makers Academy](http://beta.makersacademy.com). Also a huge thank you to [Michela Tannoia](https://twitter.com/MintSugar) for designing our stickers. Without all of your support the day would not have been possible. And a final big thank you to all the students and coaches who attended and made our first Mind the Code an absolute blast. 
+We want to say a huge thanks to all of our sponsors [MailJet](http://mailjet.com), [Shutl](http://shutl.com/uk), [Twilio](https://www.twilio.com) and [Makers Academy](http://beta.makersacademy.com). Also a huge thank you to [Michela Tannoia](https://twitter.com/MintSugar) for designing our stickers and gif (see below) for the day. Without all of your support the day would not have been possible. And a final big thank you to all the students and coaches who attended and made our first Mind the Code an absolute blast.
+
+[![Mind the Code gif - Michela Tannoia](/images/mind-the-code.gif)]() 
